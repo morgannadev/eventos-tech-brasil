@@ -75,6 +75,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 11, 12 e 13: [TDC Floripa](https://thedevconf.com/tdc/2025/florianopolis/) - _Florianópolis/SC_ ![híbrido]
 - 17 e 18: [UNIVERSO TOTVS 2025](https://eventos.totvs.com/event/universo-totvs-2025) - _São Paulo/SP_ ![presencial]
 - 20, 21 e 22: [Python Nordeste 2025](https://2025.pythonnordeste.org/) - _Teresina/PI_ ![presencial]
+- 25: [cTENcf Santa Catarina: 10 Anos de Cloud Native](https://community.cncf.io/events/details/cncf-cloud-native-santa-catarina-presents-ctencf-santa-catarina-10-anos-de-cloud-native/) - _Florianópolis/SC_ ![presencial]
 - 27: [GitTogether São Paulo](https://www.meetup.com/gittogether-brasil/events/307760086) - _São Paulo/SP_ ![presencial]
 <!-- JUNHO:END -->
 ### Julho
@@ -111,6 +112,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- OUTUBRO:END -->
 ### Novembro
 <!-- NOVEMBRO:START -->
+- 15: [Front in Floripa 2025](https://frontin.floripa.br) - _Florianópolis/SC_ ![presencial]
 - 18, 19 e 20: [AI Summit 2025](https://www.sympla.com.br/evento-online/ai-summit-2025/2905033?utm_source=github&utm_medium=link&utm_campaign=aisummit_2025) ![online]
 - 22: [Big Data Brazil Experience 2025](https://www.sympla.com.br/evento/big-data-brazil-experience-2025/2571633) - _São Paulo/SP_ ![presencial]
 - 22: [DevOpsDays São Paulo](https://devopsdays.org/events/2025-sao-paulo/welcome/) - _São Paulo/SP_ ![presencial]
